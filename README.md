@@ -1,4 +1,4 @@
-# [Thunder Flashing](t.me/czarbit)
+# [Thunder Flashing](https://t.me/czarbit)
 
 Thunder USDT Flasher i sa telegram bot software that allows the cryptocurrency flashing of USDT , UDC and DAI flashing with a single telegram bot.
 The bot is fast in flashing and does not require binance server or any external file to send out flash.
